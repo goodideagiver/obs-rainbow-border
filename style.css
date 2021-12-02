@@ -43,7 +43,7 @@ body {
     position: absolute;
     top: 28%;
     left: 27.75%;
-    background-color: green;
+    background-color: rgb(0, 0, 0);
     z-index: 2;
 
     margin: 0 auto;
